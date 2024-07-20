@@ -4,4 +4,4 @@ This is a fork of the SKCraft Launcher, however there are a lot of fixes for the
 
 WIP
 
-Love, Tom <3
+Cheers, Tom <3
